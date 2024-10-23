@@ -1,1 +1,2 @@
-nuxt : [nph-portfolio](https://www.noemiepirushassid.com)
+### Tools
+Ruby on Rails | Nuxt/Vue.js | Tailwind
